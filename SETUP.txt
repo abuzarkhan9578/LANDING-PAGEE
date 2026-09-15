@@ -1,0 +1,46 @@
+DIGITAL SKILLS ACADEMY - LEAD GENERATION FUNNEL
+====================================================
+
+GOOGLE SHEET
+------------
+Main Title: Digital Skills Academy – Course Leads
+Sheet Name: Leads
+
+Column Titles:
+Timestamp | Name | Email | Phone | Course | Message
+
+GOOGLE APPS SCRIPT
+------------------
+1. Open your Google Sheet.
+2. Go to Extensions > Apps Script.
+3. Paste the code from apps_script.js.
+4. Click Deploy > New deployment.
+5. Select Web app.
+6. Execute as: Me.
+7. Who has access: Anyone.
+8. Deploy and copy the Web App URL.
+9. Open index.html.
+10. Replace:
+   https://script.google.com/macros/s/AKfycbyY70Aey4eh6hkTSP2n0GYAKcJAiyKSqUqnasQEo8F-63K7NowJecMbNqo4aHiyUrkavQ/exec
+   with your Web App URL.
+11. Save and test the form.
+
+FUNNEL
+------
+Ad / Social Media
+        ↓
+Landing Page
+        ↓
+Lead Form
+        ↓
+Google Sheet
+        ↓
+Thank-You Popup
+        ↓
+Follow-Up
+
+FILES
+-----
+index.html       = Complete landing page
+apps_script.js   = Google Apps Script
+SETUP.txt        = Setup instructions
