@@ -22,6 +22,7 @@ GOOGLE APPS SCRIPT
 9. Open index.html.
 10. Replace:
    https://script.google.com/macros/s/AKfycbyY70Aey4eh6hkTSP2n0GYAKcJAiyKSqUqnasQEo8F-63K7NowJecMbNqo4aHiyUrkavQ/exec
+   with your Web App URL.
 11. Save and test the form.
 
 FUNNEL
